@@ -1,1 +1,2 @@
-
+#Facebook ownership confirmation
+facebook.com, XXXXXXX, RESELLER, c3e20eee3f780d68
